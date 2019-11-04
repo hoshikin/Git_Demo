@@ -13,6 +13,10 @@ public class Demo1 {
 		log.error("Button is not Displayed");
 		log.fatal("Button is Missing");
 		
+		
+		System.out.println("Test4 Git");
+		System.out.println("Test5 Git");
+		
 	}
 
 }
