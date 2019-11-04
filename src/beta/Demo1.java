@@ -14,8 +14,8 @@ public class Demo1 {
 		log.fatal("Button is Missing");
 		
 		
-		System.out.println("Test4 Git");
-		System.out.println("Test5 Git");
+		System.out.println("Test2 Git");
+		System.out.println("Test3 Git");
 		
 	}
 

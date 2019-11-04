@@ -15,8 +15,7 @@ public class Demo {
 		
 		
 		System.out.println("Test1 Git");
-		System.out.println("Test2 Git");
-		System.out.println("Test3 Git");
+		
 		
 	}
 
