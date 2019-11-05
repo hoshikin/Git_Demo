@@ -19,4 +19,24 @@ public class Demo {
 	
 	
 
+	@Test
+	public void gitDemo() {
+		System.out.println("Test1 Git");
+	}
+	
+	@Test
+	public void gitDemo1() {
+		System.out.println("Test2 Git");
+	}
+	
+	@Test
+	public void gitDemo2() {
+		System.out.println("Test3 Git");
+	}
+	
+	@Test
+	public void gitDemo3() {
+		System.out.println("Test4 Git");
+	}
+
 }
