@@ -35,15 +35,5 @@ public class Demo {
 		System.out.println("Test3 Git");
 	}
 	
-	@Test
-	public void gitDemo3() {
-		System.out.println("Test4 Git");
-	}
-
-	@Test
-	public void gitDemo4() {
-		System.out.println("Test5 Git");
-	}
-
 
 }
